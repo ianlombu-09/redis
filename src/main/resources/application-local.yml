@@ -1,0 +1,8 @@
+# Redis config
+redis:
+  host: 127.0.0.1
+  port: 6379
+  commandTimeout: 500
+  expireSeconds: 1000
+  password: rEd1sPasssw0rdnewBDS
+  dbIndex: 0
